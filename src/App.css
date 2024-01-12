@@ -1,0 +1,24 @@
+main {
+        text-align: center;
+          vertical-align: center;
+          line-height: 30vh
+}
+
+
+
+.link {
+        text-align: top;
+          position: bottom;
+        top: 60px
+}
+
+.link2 {
+        text-align: top;
+          position: bottom;
+        top: 70px
+}
+
+.words {
+        text-align: center;
+        position: center;
+}

@@ -1,0 +1,35 @@
+main {
+        text-align: left;
+          vertical-align: left;
+          line-height: 4vh;
+        margin-top: 50px;
+}
+
+
+
+.Traptor {
+        position: top;
+        margin-left: 750px;
+        margin-top: -500px;
+        height: 300px;
+        width: 300px;
+          border: solid;
+          border-color :black;
+          border-width: 3px;
+}
+
+.Sraptor {
+        position: top;
+        margin-left: 750px;
+        margin-top: 0px;
+        height: 300px;
+        width: 310px;
+          border: solid;
+          border-color :black;
+          border-width: 3px;
+}
+
+.VelociText {
+        position: left;
+        width: 400px;
+}
